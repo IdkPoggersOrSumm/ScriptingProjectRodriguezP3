@@ -1,0 +1,13 @@
+1. Go to github.com
+2. Create a new repositiory
+3. Add a README
+4. Add a Gitignore for unity
+5. Create repository
+6. Go into .gitignore file
+7. Delete the first backslashes on lines 5-11
+8. Go into Github app
+9. On the left, click the dropdown menu icon
+10. Click add
+11. Click clone repository
+12. Chosse link and copy and paste the link, or if the option pops up, add it from the website directly
+
