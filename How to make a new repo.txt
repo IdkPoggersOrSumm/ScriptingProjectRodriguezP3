@@ -10,4 +10,6 @@
 10. Click add
 11. Click clone repository
 12. Chosse link and copy and paste the link, or if the option pops up, add it from the website directly
-
+13. (If a project has been made before repo)
+14. Find the file where the project is stored
+15. Cut and paste the file in the Github file/Whatever you named your repo
